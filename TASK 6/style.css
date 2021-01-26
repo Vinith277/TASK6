@@ -1,0 +1,95 @@
+*{
+    max-width: 750px;
+    margin: auto;
+    padding: 3px;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+img {
+    border-radius: 70%;
+    width: 15%;
+    border-color: yellow;
+    border-style: dotted;
+    position: relative;
+    left: 5px;
+    top:15px;
+}
+.header{
+    background-color: gray;
+    text-align: center;
+}
+.center{ 
+    background-color: white;
+    position: absolute;
+    top: 160px;
+    right: 300px;
+    width: 17.2%;
+    padding: 0.90%;
+}
+.center1{ 
+    background-color: white;
+    position: absolute;
+    top: 160px;
+    left: 303px;
+    width: 17.6%;
+    padding: 0.90%;
+}
+
+.name{
+    background-color: rgb(201, 150, 11);
+    border-radius: 5px;
+    position: absolute;
+    top: 150px;
+    left: 565px;
+}
+.icons{
+    height: 15px;
+    width: 15px;
+    border-radius: 45% ;
+    color:rgb(201, 150, 11);
+    padding: 7px;
+    background-color: rgb(75, 74, 74);
+    border: 3px dotted rgb(201, 150, 11);
+    position: relative;
+    top:25px
+}
+.ski{
+    text-align: center;
+    font-size: small;
+}
+
+
+.address{
+    text-align: center;
+}
+.dat, .date, .date1, .date2{
+    text-align: right;
+    font-size: x-small;
+}
+.content{
+    font-size: small;
+}
+table{
+    text-align: justify;
+}
+.content1{
+    font-size: small;
+    text-align: justify;
+}
+#yellow {
+    background: linear-gradient(to right, #F2E857 50%, #FFFAB4 100%);
+    border: solid 1px #bec5c5;
+    border-radius: 8px;
+    height: 3px;
+    width: 140px;
+    -webkit-appearance: none;
+}
+.v1{
+    border-left: 1px solid grey;
+    height: 740px;
+    position: absolute;
+    left: 48.8%;
+    margin-left: 10px;
+    top: 250px;
+}
+
+
